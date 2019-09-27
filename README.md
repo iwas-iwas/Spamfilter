@@ -31,6 +31,8 @@ Pandas, Numpy, Matplotlib, Seaborn, scikit-learn
  - confusion matrix 
  - accuracy 
  
+ ![spam-evaluation](Data/spam_evaluation.png)
+ 
 **Hyperparameter tuning**
 
  - GridSearchCV
