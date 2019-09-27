@@ -4,6 +4,8 @@ https://nbviewer.jupyter.org/github/iwasscience/Spamfilter/blob/master/Spamfilte
 
 # Spam Classification Project - Iwas Iwas
 
+![Screenshot](Data/spam.jpg)
+
 ## Tools:
 
 Pandas, Numpy, Matplotlib, Seaborn, scikit-learn
