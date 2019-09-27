@@ -2,7 +2,7 @@
 
 https://nbviewer.jupyter.org/github/iwasscience/Spamfilter/blob/master/Spamfilter.ipynb
 
-# Spam Classification Project - Iwas Iwas
+# Spam Classification Project 
 
 ![Screenshot](Data/spam.jpg)
 
@@ -12,30 +12,30 @@ Pandas, Numpy, Matplotlib, Seaborn, scikit-learn
 
 ## Structure:
 
-**- Exploratory Data Analysis**
+**Exploratory Data Analysis**
 
  - Info Statistics and distribution plots
  
-**- Data Preprocessing**
+**Data Preprocessing**
 
  - Train-Test-Split
  - CountVectorizer
  
-**-Modeling**
+**Modeling**
 
  - Multinomial Naive Bayes
  
-**-Model Evaluation**
+**Model Evaluation**
 
  - classification report
  - confusion matrix 
  - accuracy 
  
-**-Hyperparameter tuning**
+**Hyperparameter tuning**
 
  - GridSearchCV
  
-**-Results showcase**
+**Results showcase**
 
  - interpreting output
  - function to classify spam
